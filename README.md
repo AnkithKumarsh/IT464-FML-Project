@@ -20,7 +20,7 @@ This project implements a **hybrid book recommender system** using **content-bas
 - scikit-learn
 - Streamlit
 - Pickle
-- Dataset: [Kaggle - Best Book Ever 2021](https://www.kaggle.com)
+- Dataset: [Kaggle - Best Book Ever 2021] https://www.kaggle.com/datasets/shashwatwork/best-book-ever-data-for-2021
 
 ---
 
